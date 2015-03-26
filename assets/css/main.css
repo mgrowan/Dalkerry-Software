@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Paragraph & Typographic */
 p {
     line-height: 28px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .centered {
@@ -296,7 +296,7 @@ a:after {
     margin-top: 90px;
     padding-bottom: 30px;
     letter-spacing: 8px;
-    font-size: 70px;
+    font-size: 60px;
     font-weight: bold;
     text-shadow: 2px 2px 2px #000;
 }
@@ -361,7 +361,7 @@ a:after {
 }
 
 .white p {
-    padding-top: 25px;
+    padding-top: 15px;
 }
 
 /* Section Dividers */
@@ -634,4 +634,3 @@ a:after {
         line-height: 38px;
     }
 }
-
